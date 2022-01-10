@@ -1,6 +1,6 @@
-# serial_logger
+# Arduino serial logger
 
-A toy Python project that reads data from an Arduino board over the serial port, plots it on screen in real-time and writes it to a CSV file for future analysis.
+Python code for reading data from an Arduino board over the serial port.  The data is plotted on screen in real-time and optionally written it to a CSV file for future analysis.
 
 ## Usage
 
