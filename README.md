@@ -5,7 +5,7 @@ A toy Python project that reads data from an Arduino board over the serial port,
 ## Usage
 
 ```commandline
-python3 logger.py
+python3 logger.py 
 ```
 
 ### Notes
