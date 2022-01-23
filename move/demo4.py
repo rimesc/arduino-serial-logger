@@ -3,9 +3,9 @@ import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 
-from cli import args
-from filedata import file_data
-from serialdata import serial_data
+from common.cli import args
+from common.filedata import file_data
+from common.serialdata import serial_data
 
 matplotlib.use("tkAgg")
 

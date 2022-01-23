@@ -6,8 +6,9 @@ Inspired in part by [this blog post](https://makersportal.com/blog/2018/2/25/pyt
 
 ## Usage
 
+E.g.
 ```commandline
-python3 logger.py 
+python3 -m move.demo4
 ```
 
 ### Notes
